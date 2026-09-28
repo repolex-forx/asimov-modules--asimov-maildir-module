@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-maildir-module",
+  "versions": [
+    {
+      "commit": "bc79afd1c1a28d66c325b9d2a8ebabd0486dcab6",
+      "tag": "0.1.0",
+      "parsed_at": "2026-09-28T07:27:57.226889+00:00"
+    }
+  ]
+}
